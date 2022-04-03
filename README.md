@@ -13,8 +13,11 @@ A project for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 - Fix gui version ( v 2.0 ).
 - Fix gui version ( v 2.1 ) ssl error.
 - fix gui version ( v 2.2 ) added dark mode.
+- fix gui version ( v 2.2.1 ) added server 2.
 
 ### Download App For windows os
+
+- [wp-plus.exe version GUI 2.2.1](https://github.com/ALIILAPRO/warp-plus-cloudflare/releases/download/gui-v2.2.1/wp-plus.GUI.zip)
 
 - [wp-plus.exe version GUI 2.2](https://github.com/ALIILAPRO/warp-plus-cloudflare/releases/download/gui-v2.2/wp-plus.GUI.zip)
 
@@ -52,8 +55,13 @@ A project for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 3. Advanced > Diagonistics
 4. Under Client Configuration > Copy the ID
 --------------------------------------------------------------------
+![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/nv.JPG)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc.JPG)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-g.png)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-m.png)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-p.png)
 ![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/sc/sc-d.png)
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/warp-plus-cloudflare/count.svg" alt ="ALI">
